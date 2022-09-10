@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>V-Unlock</name>
+	<version>0.5</version>
+	<release_date>20220304</release_date>
+	<coder>Vega</coder>
+	<short_description>MKW-Unlocker</short_description>
+	<long_description>Vega's MKW Unlocker App. This is an unlocking app for Mario Kart Wii. For more information and bug reports, visit www.MarioKartWii.com.</long_description>
+<ahb_access/>
+</app>
